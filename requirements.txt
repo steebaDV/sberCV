@@ -1,0 +1,9 @@
+Flask
+numpy
+pandas
+Pillow
+python-dateutil
+python-dotenv
+torch
+torchvision
+pyTelegramBotAPI
